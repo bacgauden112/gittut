@@ -1,2 +1,3 @@
 tutorial hoc git hehehe
 commit: Lưu lại trạng thái của index
+pull: Lấy nội dung của remote repository
