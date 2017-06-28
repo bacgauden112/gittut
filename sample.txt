@@ -1,1 +1,2 @@
 tutorial hoc git hehehe
+pull: Lấy nội dung của remote repository
